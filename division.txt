@@ -1,3 +1,7 @@
-# top division 
-# center division 
-# bottom division 
+step 1 
+#top division 
+gmail,images,google apps, google account 
+#center division 
+google search engine,google search,google offered languages,im feeling lucky 
+#bottom division 
+about,advertising,business,how search works,privacy,terms,settings 
